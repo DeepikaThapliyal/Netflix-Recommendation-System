@@ -1,2 +1,2 @@
 # Netflix-Recommendation-System
-A Netflix recommendation system deployed on Heroku using collaborative and content-based filtering.
+A Netflix recommendation system using collaborative and content-based filtering.
